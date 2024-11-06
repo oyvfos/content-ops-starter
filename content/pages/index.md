@@ -654,7 +654,9 @@ sections:
         type: FeaturedItem
       - title: Capital Projection Models
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Forecast capital needs with high accuracy, based on real-time market
+          conditions and internal metrics.
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.

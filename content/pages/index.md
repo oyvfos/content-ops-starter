@@ -59,7 +59,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Our platform provides a self-service, flexible approach to asset and
+      liability management, allowing insurance companies to leverage their own
+      expertise, free from vendor lock-in.
     items:
       - type: FeaturedItem
         title: 500k

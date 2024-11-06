@@ -7,10 +7,7 @@ sections:
       text: Revolutionize Your Asset & Liability Management
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Flexible, open-source, and designed to work with your team's expertise.
-      Get the tools you need for effective risk management and capital
-      projection.
+    subtitle: ss
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a

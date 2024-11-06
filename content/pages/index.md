@@ -680,7 +680,7 @@ sections:
       - type: FeaturedItem
         title: Scalable & Lightweight
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Our solution is built for scalability, ensuring you can adapt as your
           data and needs grow.

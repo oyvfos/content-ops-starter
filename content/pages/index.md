@@ -629,7 +629,7 @@ sections:
         type: FeaturedItem
       - title: Short Time to Production
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Deploy quickly with our standardized modules and pre-configured
           templates, reducing integration time.

@@ -65,7 +65,7 @@ sections:
       expertise, free from vendor lock-in.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: DIY & Flexible
         subtitle: ''
         text: >
           Customize your management approach and maximize flexibility with an

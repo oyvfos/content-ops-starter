@@ -119,10 +119,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our open-source model ensures that you retain full control, free from
+          restrictive vendor policies.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three

@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: No Vendor Lock-In
         subtitle: ''
         text: >+
           Our open-source model ensures that you retain full control, free from

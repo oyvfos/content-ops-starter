@@ -630,8 +630,10 @@ sections:
       - title: Short Time to Production
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >+
+          Deploy quickly with our standardized modules and pre-configured
+          templates, reducing integration time.
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image

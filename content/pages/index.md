@@ -686,7 +686,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Ready to Transform Your Financial Strategy?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle

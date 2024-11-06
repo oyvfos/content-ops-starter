@@ -92,7 +92,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Risk & Capital Insights
+      - title: Risk & Return Insights
         subtitle: ''
         text: >+
           Gain real-time insights into risk and capital projections, enhancing

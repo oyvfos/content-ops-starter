@@ -678,7 +678,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item four
+        title: Scalable & Lightweight
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |

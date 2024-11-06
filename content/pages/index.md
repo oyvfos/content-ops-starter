@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: DIY & Flexible
         text: >
           Customize your management approach and maximize flexibility with an
           open-source, standardized system.

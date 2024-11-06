@@ -654,9 +654,7 @@ sections:
         type: FeaturedItem
       - title: Capital Projection Models
         tagline: This is the tagline
-        subtitle: >-
-          Forecast capital needs with high accuracy, based on real-time market
-          conditions and internal metrics.
+        subtitle: ''
         text: >+
           Forecast capital needs with high accuracy, based on real-time market
           conditions and internal metrics.

@@ -600,7 +600,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Integrated Risk Reporting
         tagline: This is the tagline

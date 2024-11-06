@@ -681,8 +681,10 @@ sections:
         title: Scalable & Lightweight
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Our solution is built for scalability, ensuring you can adapt as your
+          data and needs grow.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

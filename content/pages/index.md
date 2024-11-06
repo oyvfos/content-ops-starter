@@ -7,7 +7,7 @@ sections:
       text: Revolutionize Your Asset & Liability Management
       color: text-dark
       type: TitleBlock
-    subtitle: ss
+    subtitle: ''
     text: >
       Flexible, open-source, and designed to work with your team's expertise.
       Get the tools you need for effective risk management and capital

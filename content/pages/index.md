@@ -604,7 +604,7 @@ sections:
     items:
       - title: Integrated Risk Reporting
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >+
           Keep your assets and liabilities in sync with up-to-date risk
           assessments and customized reporting options.

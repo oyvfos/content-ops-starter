@@ -94,10 +94,9 @@ sections:
               borderRadius: x-large
       - title: Risk & Return Insights
         subtitle: ''
-        text: >+
-          Gain real-time insights into risk and capital projections, enhancing
+        text: >
+          Gain real-time insights into risk and returns projections, enhancing
           strategic decision-making.
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two

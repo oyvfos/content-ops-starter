@@ -689,7 +689,7 @@ sections:
       text: Ready to Transform Your Financial Strategy?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Get in touch for a demo or to learn more about our solution.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Risk & Capital Insights
         text: >+
           Gain real-time insights into risk and capital projections, enhancing
           strategic decision-making.

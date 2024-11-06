@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: No Vendor Lock-In
         text: >+
           Our open-source model ensures that you retain full control, free from
           restrictive vendor policies.

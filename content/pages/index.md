@@ -67,10 +67,9 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Customize your management approach and maximize flexibility with an
+          open-source, standardized system.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

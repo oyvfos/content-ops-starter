@@ -605,8 +605,10 @@ sections:
       - title: Integrated Risk Reporting
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Keep your assets and liabilities in sync with up-to-date risk
+          assessments and customized reporting options.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image

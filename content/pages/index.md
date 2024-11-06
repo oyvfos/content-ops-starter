@@ -652,7 +652,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Capital Projection Models
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
